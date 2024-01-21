@@ -44,7 +44,7 @@ function App() {
                   <p className='p-2'>{numtx} Total Transactions</p>
                 </div>
               )}
-              <p className='text-gray-400'>Made by <a href="https://github.com/ramanjs" className='underline'>ramanjs</a> for <a href='https://web3apps-20170.devpost.com/' className='underline'>Web3Apps</a>. Photos from <a href='https://unsplash.com' className='underline'>Unsplash</a>.</p>
+              <p className='text-gray-400 text-sm'>Made by <a href="https://github.com/ramanjs" className='underline'>ramanjs</a> and <a href="https://github.com/namn-grg"  className='underline'>namn-grg</a> for <a href='https://web3apps-20170.devpost.com/' className='underline'>Web3Apps</a>. Photos from <a href='https://unsplash.com' className='underline'>Unsplash</a>.</p>
             </div>
           </div>
         </div>

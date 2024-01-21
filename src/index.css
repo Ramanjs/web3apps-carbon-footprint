@@ -16,6 +16,14 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  /*background: linear-gradient(to bottom right, #a6a6a6, #ffffff);*/
-  background: linear-gradient(to top, #b0c4de, #e0ffff);
+  /*background: linear-gradient(to top, #b0c4de, #e0ffff);*/
+}
+
+.bgimage {
+  background-image: url('./assets/bg.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  filter: blur(2px) opacity(98%);
+  position: absolute;
 }
